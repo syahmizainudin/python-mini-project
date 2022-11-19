@@ -1,0 +1,2 @@
+Mode		Original Temp		Converted Temp		Time
+F		100			37.78			20-11-2022 07:41:35
